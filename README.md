@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Furksnp
 - 👀 I’m interested in write code and voleyball
-- 🌱 I’m currently learning ... code
+- 🌱 I’m currently learning ... html code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...funny
 - 😄 Pronouns: ...
